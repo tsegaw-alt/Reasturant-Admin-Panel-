@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Waiting...</title>
+</head>
+
+<body>
+  <script src="oidc-client.js"></script>
+  <script>
+
+    var mgr = new Oidc.UserManager({ response_mode: 'query',client_secret:'af71c724-8602-49ad-8125-7d96a5ea4e5d'});
+    
+    mgr.signinRedirectCallback().then((user) => {
+      window.location.href = '../app/restaurant';
+    }).catch(function (err) {
+      console.log(err);
+    });
+
+  </script>
+</body>
+
+</html>

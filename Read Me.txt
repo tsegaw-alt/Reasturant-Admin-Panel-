@@ -1,0 +1,15 @@
+ReadME
+# Delivery-Web
+
+npm install
+
+npm audit fix
+
+We have set up a fake JSON server in order to make the API calls, to Start the JSON server 
+go to root directory of Deliver-Web and run  
+
+json-server --watch database.json
+
+then 
+
+npm run serve 

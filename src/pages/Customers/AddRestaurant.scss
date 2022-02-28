@@ -1,0 +1,86 @@
+
+h5 {
+    color: black;
+    font-weight: bold;
+}
+.vue-step-wizard{
+    background-color: #ffffff; 
+    width: auto;
+    margin: auto; 
+    padding: 0px;
+    box-shadow: none;
+}
+.leaflet-draw-toolbar a {
+    background-image: url('../../assets/download.png');
+    background-repeat: no-repeat;
+    color: transparent !important;
+  }
+#input{
+    border-style: none;
+    border-radius: 0px;
+    background-color: #f6f7fb;
+    padding:20px;
+   
+}
+.time-p{
+    color: F85F73;
+    background-color: #F85F73
+}
+
+input::-webkit-input-placeholder {
+   // font-weight: bold;
+   font-size: medium;
+}
+.tur{
+    padding-bottom: 0px;
+    padding-left: 25px;
+    padding-right: 100px;
+    margin-top: 20px;
+       
+}
+.cat-img{
+    margin-left: 20px;
+    width:70px; 
+    height:65px; 
+    border-radius:5px;
+}
+.work-div{
+    margin-top:2%;
+    padding-left: 80px;
+}
+.work-brow{
+    margin-top:2%;
+    padding-right: 80px;
+}
+.bform-time{
+    color:#F85F73;
+}
+.map-div{
+    height: 450px; 
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+input[type=checkbox]{
+    width:30px; 
+    height:30px;
+    filter: hue-rotate(240deg)
+} 
+.work-add{
+    padding-left: -40px;
+}
+#search-input{
+    width:40%;
+    height: 40px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.input-group-text {
+    background-color: #ffffff;
+    border-right: #ffffff;
+}
+#tab-title{
+    border-radius: 0px;
+}
+    

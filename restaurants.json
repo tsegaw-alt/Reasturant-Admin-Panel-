@@ -1,0 +1,196 @@
+{
+  "restaurants": [
+    {
+      "name": "Kategna Restaurant",
+      "email": "",
+      "last_name": "",
+      "phone": "",
+      "streetaddress": "Addis Ababa",
+      "housenumber": "",
+      "city": "Addis Ababa",
+      "postcode": "10000",
+      "bankname": "Restaurant",
+      "iban": "",
+      "vatcode": "",
+      "restaurantName": "",
+      "restaurantPhone": "+251911987867",
+      "restaurantStreetAddress": "",
+      "restaurantHouseNumber": "",
+      "restaurantCity": "",
+      "restaurantPostCode": "",
+      "restaurantCountry": "",
+      "contactName": "",
+      "contactAdress": "",
+      "contactHouseNumber": "",
+      "checkedCategory": [
+        "Turkish",
+        "Ethiopia"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Abyssinia Restaurant",
+      "email": "Kebede",
+      "last_name": "",
+      "phone": "",
+      "streetaddress": "Addis Ababa",
+      "housenumber": "",
+      "city": "Addis Ababa",
+      "postcode": "10000",
+      "bankname": "Restaurant",
+      "iban": "",
+      "vatcode": "",
+      "restaurantName": "Restaurant",
+      "restaurantPhone": "+2519119833322",
+      "restaurantStreetAddress": "Addis Ababa",
+      "restaurantHouseNumber": "123",
+      "restaurantCity": "Addis Ababa",
+      "restaurantPostCode": "10000",
+      "restaurantCountry": "Abysinia Bank",
+      "contactName": "Embilta",
+      "contactAdress": "123 Addis Ababa",
+      "contactHouseNumber": "",
+      "checkedCategory": [
+        "Ethiopia",
+        "German"
+      ],
+      "checkedFoodCategory": [
+        "Turkish",
+        "Ethiopia"
+      ],
+      "checkedToppings": [
+        "Mushroom",
+        "Chocolates"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Lalibela Restaurant",
+      "email": "",
+      "last_name": "",
+      "phone": "",
+      "streetaddress": "Addis Ababa",
+      "housenumber": "",
+      "city": "Addis Ababa",
+      "postcode": "10000",
+      "bankname": "Restaurant",
+      "iban": "",
+      "vatcode": "",
+      "restaurantName": "",
+      "restaurantPhone": "+251911987867",
+      "restaurantStreetAddress": "",
+      "restaurantHouseNumber": "",
+      "restaurantCity": "",
+      "restaurantPostCode": "",
+      "restaurantCountry": "",
+      "contactName": "",
+      "contactAdress": "",
+      "contactHouseNumber": "",
+      "checkedCategory": [
+        "Turkish",
+        "Ethiopia"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Axum Restaurant",
+      "email": "Kebede",
+      "last_name": "",
+      "phone": "",
+      "streetaddress": "Addis Ababa",
+      "housenumber": "",
+      "city": "Addis Ababa",
+      "postcode": "10000",
+      "bankname": "Restaurant",
+      "iban": "",
+      "vatcode": "",
+      "restaurantName": "Restaurant",
+      "restaurantPhone": "+2519119833322",
+      "restaurantStreetAddress": "Addis Ababa",
+      "restaurantHouseNumber": "123",
+      "restaurantCity": "Addis Ababa",
+      "restaurantPostCode": "10000",
+      "restaurantCountry": "Abysinia Bank",
+      "contactName": "Embilta",
+      "contactAdress": "123 Addis Ababa",
+      "contactHouseNumber": "",
+      "checkedCategory": [
+        "Ethiopia",
+        "German"
+      ],
+      "checkedFoodCategory": [
+        "Turkish",
+        "Ethiopia"
+      ],
+      "checkedToppings": [
+        "Mushroom",
+        "Chocolates"
+      ],
+      "id": 2
+    }
+    
+  ],
+  "category": [
+    {
+      "country": "Turkish",
+      "picture": "https://media.istockphoto.com/vectors/turkish-flag-correct-proportions-vector-vector-id1053420278?k=6&m=1053420278&s=612x612&w=0&h=qeiWRLi1bae8yNoD5mV-YHffVmUTXDKzalhHEYrhfZA=",
+      "type": "Turkish cuisine",
+      "id": 1
+    },
+    {
+      "country": "Ethiopia",
+      "picture": "https://t4.ftcdn.net/jpg/01/11/32/97/360_F_111329772_Ub6zpMkaJDRXVT5PShNXpk8eiaDyxTHH.jpg",
+      "type": "Ethiopia cuisine",
+      "id": 2
+    },
+    {
+      "country": "German",
+      "picture": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+      "type": "German cuisine",
+      "id": 3
+    }
+  ],
+  "foodCategory": [
+    {
+      "country": "Turkish",
+      "type": "Turkish cuisine",
+      "picture": "https://www.melares.com/uploads/turkish-foods72022865.jpg",
+      "id": 1
+    },
+    {
+      "country": "Ethiopia",
+      "type": "Ethiopia cuisine",
+      "picture": "https://migrationology.com/wp-content/uploads/2014/01/ethiopian-food.jpg",
+      "id": 2
+    },
+    {
+      "country": "German",
+      "type": "German cuisine",
+      "picture": "https://res.cloudinary.com/wegowordpress/images/f_auto,q_auto/v1533303091/Schnitzel_qfryve/Schnitzel_qfryve.jpg?_i=AA",
+      "id": 3
+    }
+  ],
+  "toppings": [
+    {
+      "name": "Chocolates",
+      "discription": "Special one",
+      "picture": "https://www.melares.com/uploads/turkish-foods72022865.jpg",
+      "price": "4$",
+      "id": 1
+    },
+    {
+      "name": "Mushroom",
+      "discription": "Special one",
+      "picture": "https://migrationology.com/wp-content/uploads/2014/01/ethiopian-food.jpg",
+      "price": "10$",
+      "id": 2
+    },
+    {
+      "name": "Corns",
+      "discription": "Special one",
+      "picture": "https://res.cloudinary.com/wegowordpress/images/f_auto,q_auto/v1533303091/Schnitzel_qfryve/Schnitzel_qfryve.jpg?_i=AA",
+      "price": "14$",
+      "id": 3
+    }
+  ]
+}
